@@ -25,8 +25,8 @@ The feature selection techniques used are:
 
 # CODING AND OUTPUT:
 ```
-NAME : YAMUNAASRI T S
-REG NO : 212222240117
+NAME : PANDIDHARAN G R
+REG NO : 212222040111
 ```
 ```python
 import pandas as pd
